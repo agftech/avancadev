@@ -9,10 +9,18 @@ import (
 	"net/url"
 
 	"github.com/hashicorp/go-retryablehttp"
+	"github.com/joho/godotenv"
 )
 
 type Result struct {
 	Status string
+}
+
+func init() {
+	err := godotenv.Load()
+	if err != nil {
+		log.Fatal("Error loading .env")
+	}
 }
 
 func main() {
