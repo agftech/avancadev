@@ -40,7 +40,6 @@
 > - <a href="https://www.docker.com/"><img alt="docker" align="center" src="https://img.shields.io/badge/-docker-gray.svg?color=6A788D&style=for-the-badge" /> </a>
 > - <a href="https://github.com/docker/compose"><img alt="docker compose" align="center" src="https://img.shields.io/badge/-docker compose-gray.svg?color=6A788D&style=for-the-badge" /> </a>
 > - <a href="https://golang.org/"><img alt="golang" align="center" src="https://img.shields.io/badge/-golang-gray.svg?color=6A788D&style=for-the-badge" /> </a>
-> - <a href="https://www.rabbitmq.com/"><img alt="rabbitmq" align="center" src="https://img.shields.io/badge/-rabbitmq-gray.svg?color=6A788D&style=for-the-badge" /> </a>
 >
 > ---
 
